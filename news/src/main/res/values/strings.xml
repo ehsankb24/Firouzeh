@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="articles_screen_title">News</string>
+    <string name="articles_screen_empty_news_list_message">can not find any news</string>
+    <string name="article_detail_screen_title">Detail</string>
+    <string name="article_detail_screen_source_title">"Source: %s"</string>
+    <string name="article_detail_screen_date_title">Published At: %s</string>
+    <string name="article_detail_screen_author_title">Author: %1$s</string>
+</resources>
