@@ -1,6 +1,5 @@
-package kb24.ehsan.firouzeh.ui.theme
+package kb24.ehsan.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

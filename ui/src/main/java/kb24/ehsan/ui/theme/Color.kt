@@ -1,4 +1,4 @@
-package kb24.ehsan.firouzeh.ui.theme
+package kb24.ehsan.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
