@@ -84,7 +84,7 @@ A modern Android news application that aggregates and displays news from major t
 ### Configuration
 1. Clone the repository
 2. Configure your API key:
-   - Open `app/src/main/java/kb24/ehsan/vero/di/RemoteDataSourceModule.kt`
+   - Open `di/src/main/java/kb24/ehsan/di/RemoteDataSourceModule.kt`
    - Locate the `provideRemoteToken()` function
    - Replace the existing token with your NewsAPI API key:
      ```kotlin
