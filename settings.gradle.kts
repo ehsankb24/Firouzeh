@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Firouzeh"
 include(":app")
+include(":domain")
