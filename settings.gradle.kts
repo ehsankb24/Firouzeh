@@ -23,3 +23,4 @@ rootProject.name = "Firouzeh"
 include(":app")
 include(":domain")
 include(":ui")
+include(":news")
